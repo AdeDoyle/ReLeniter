@@ -1,9 +1,11 @@
 # ReLeniter
 Takes Irish text and replaces lenition shown by means of a letter "h" following a lenitable character with lenition shown by a punctum delens.
 
-## Prerequisites
+### Prerequisites
 
-Python 3.\nNo libraries aside from those included with Python 3 are requred for this program.
+Python 3.
+
+No libraries aside from those included with Python 3 are requred for this program.
 
 ### IDE Used
 
