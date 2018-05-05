@@ -44,5 +44,5 @@ def relenite(string):
     return string
 
 
-input_string = input("Paste Text Here: ")
-print(relenite(input_string))
+# input_string = input("Paste Text Here: ")
+# print(relenite(input_string))
