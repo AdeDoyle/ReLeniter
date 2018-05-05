@@ -11,7 +11,8 @@ Takes Irish text and replaces lenition shown by means of a letter "h" following 
 
 ### Prerequisites
 
-Python 3.
+Python 3 - for .py files only.
+
 tkinter - used for GUI in ReLeniterApp.py only.
 
 ### IDE Used
